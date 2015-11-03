@@ -1,10 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Earn $$$
+email: sherrala@topofmind.com
+url: http://topofmind.com
+description: "Come work with our A+++ Number One Team Awesome and earn much $$$ working FROM YOUR HOME."
+skills: "Work From Anywhere - Receive Monies For Said Work - Sleep Sometimes"
+meta_author: Herrala Sean
+banner_title: Earn $$$ FROM HOME
 
 # Google webmaster tools
 google_verify:
@@ -24,31 +25,25 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: TOMN Dev Team
+  location: Sitting At
+  social: Wasting Time
+  credits: Blame
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/seanherrala
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/sherrala
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Spare Bedroom
+  - line: St. Augustine FL 32084
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Sean Herrala is solely at fault for this. <a href="mailto:sherrala@topofmind.com">Hate Him</a>.'
 
 # Build settings
 markdown: kramdown
